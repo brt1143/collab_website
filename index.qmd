@@ -2,6 +2,10 @@
 title: "Our website"
 ---
 
-This is a Quarto website.
+This is our Quarto website :)
+
+This is the bird that I study
+
+![](images/Black-throated Blue Warbler-22.jpg){width="375"}
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
