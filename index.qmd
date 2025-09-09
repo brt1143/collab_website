@@ -6,6 +6,10 @@ This is our Quarto website :)
 
 This is the bird that I study
 
-![](images/Black-throated Blue Warbler-22.jpg){width="375"}
+![](images/Black-throated%20Blue%20Warbler-22.jpg){width="432"}
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+These are the students that I study
+
+![](images/IMG_5452.jpg){width="435"}
