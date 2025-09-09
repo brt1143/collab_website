@@ -2,3 +2,9 @@
 title: "Resources"
 editor: visual
 ---
+
+Here are some links
+
+<https://cornellecoarts.org/>
+
+<https://www.allaboutbirds.org/guide/Black-throated_Blue_Warbler/id>
