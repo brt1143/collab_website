@@ -7,17 +7,17 @@
     "text": "Here are some links\nhttps://cornellecoarts.org/\nhttps://www.allaboutbirds.org/guide/Black-throated_Blue_Warbler/id"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Our website",
-    "section": "",
-    "text": "This is our Quarto website :)\nThis is the bird that I study\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThese are the students that I study"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Our website",
+    "section": "",
+    "text": "This is our Quarto website :)\nThis is the bird that I study\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThese are the students that I study"
   }
 ]
